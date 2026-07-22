@@ -1,6 +1,6 @@
 # NeighborhoodScout - Neighborhood Research, Crime Maps, and Real Estate Intelligence
 
-![NeighborhoodScout dashboard with map-based neighborhood research]([https://upload.wikimedia.org/wikipedia/en/2/25/NeighborhoodScout_Logo.png](https://www.neighborhoodscout.com/wp-content/themes/neighborhoodscout/img/neighborhood-scout.png)
+![NeighborhoodScout dashboard with map-based neighborhood research]([https://upload.wikimedia.org/wikipedia/en/2/25/NeighborhoodScout_Logo.png]([https://www.neighborhoodscout.com/wp-content/themes/neighborhoodscout/img/neighborhood-scout.png](https://lashomevalue.com/wp-content/uploads/2021/03/Neighborhood-Scouttt.png)
 
 ## Exploring Areas with NeighborhoodScout
 
